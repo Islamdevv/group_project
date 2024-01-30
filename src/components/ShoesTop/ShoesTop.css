@@ -1,0 +1,20 @@
+#shoes_top {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  padding: 10px 0;
+  z-index: 99;
+}
+
+.shoes_top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.shoes_sort {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}

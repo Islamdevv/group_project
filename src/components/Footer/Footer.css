@@ -1,0 +1,34 @@
+#footer {
+  margin: 100px 0 0 0;
+  padding: 50px 0;
+  /* justify-content: center; */
+  background-color: #181818;
+}
+
+.content {
+  color: #fff;
+  font-size: 10.063px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.footer {
+  display: flex;
+
+  justify-content: space-between;
+}
+.footer_nav {
+  width: 550px;
+  display: flex;
+  justify-content: space-between;
+}
+.footer_icons {
+  display: flex;
+  gap: 15px;
+}
+
+.corents {
+  padding: 30px 0 0 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}

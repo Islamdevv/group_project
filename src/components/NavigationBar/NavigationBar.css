@@ -1,0 +1,14 @@
+#navigation_bar {
+  background: #f5f5f5;
+}
+.navigation_bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigation_bar .nav {
+  width: 310px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
